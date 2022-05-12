@@ -1,0 +1,121 @@
+.bi-instagram {
+    color: white;
+}
+
+.bi-facebook {
+    color: white;
+}
+
+.bi-youtube {
+    color: white;
+}
+
+.bi-twitter {
+    color: white;
+}
+
+.c2a10 {
+    font-family: "Montserrat", sans-serif;
+    color: #8d97ad;
+    font-weight: 300;
+    background-size: cover;
+    background-image: url(../images/ImgHeader.jpg);
+}
+
+.c2a10 .subtitle {
+    color: #8d97ad;
+    line-height: 24px;
+}
+
+.c2a10 .text-box {
+    padding: 30px 20px;
+}
+
+.c2a10 .both-space {
+    margin: 80px 0;
+}
+
+.c2a10 .btn-info-gradiant {
+    background: #da6900;
+}
+
+.c2a10 .btn-info-gradiant:hover {
+    background: #316ce8;
+    background: -webkit-linear-gradient(legacy-direction(to right), #316ce8 0%, #188ef4 100%);
+    background: -o-linear-gradient(left, #316ce8 0%, #188ef4 100%);
+    background: linear-gradient(to right, #316ce8 0%, #188ef4 100%);
+}
+
+.c2a10 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+.cards {
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.cards:hover {
+    transform: scale(1.1);
+}
+
+.card1 {
+    background-color: #ffc107;
+    border-radius: 15px;
+    height: 300px;
+}
+
+.card2 {
+    background-color: #fff;
+    border-radius: 15px;
+    border: 2px solid #919ba9;
+    height: 300px;
+}
+
+.first {
+    color: #132235;
+}
+
+.text1 {
+    color: #132235;
+    font-weight: 700;
+}
+
+.detail {
+    color: #132235;
+}
+
+.readmore {
+    font-weight: 400;
+    color: #fff;
+}
+
+.btn-submit {
+    border-radius: 50px;
+    border: none;
+    height: 35px;
+    width: 120px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.text2 {
+    color: #000;
+    font-weight: 700;
+}
+
+.second {
+    color: #8b96a5;
+}
+
+.btn-submit1 {
+    border-radius: 50px;
+    border: none;
+    height: 35px;
+    width: 120px;
+    font-size: 14px;
+    background-color: #f1884d;
+    color: #fff;
+    font-weight: 500;
+}
